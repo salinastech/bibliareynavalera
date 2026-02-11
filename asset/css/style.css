@@ -677,24 +677,24 @@ body.menu-prevent-scroll {
 }
 
 .c1 {
-    background-image: url(/image/salinas-tech-santa-biblia_01.webp);
+    background-image: url(/image/salinas-tech-santa-biblia_01.png);
     
 }
 
 .c2 {
-    background-image: url(/image/salinas-tech-santa-biblia_02.webp);
+    background-image: url(/image/salinas-tech-santa-biblia_02.png);
 }
 
 .c3 {
-    background-image: url(/image/salinas-tech-santa-biblia_03.webp);
+    background-image: url(/image/salinas-tech-santa-biblia_03.png);
 }
 
 .c4 {
-    background-image: url(/image/salinas-tech-santa-biblia_04.webp);
+    background-image: url(/image/salinas-tech-santa-biblia_04.png);
 }
 
 .c5 {
-    background-image: url(/image/salinas-tech-santa-biblia_05.webp);
+    background-image: url(/image/salinas-tech-santa-biblia_05.png);
 }
 
 .footer-bottom {
@@ -982,4 +982,5 @@ h3 {
 .no-animate * {
     animation: none !important;
     transition: none !important;
+
 }
